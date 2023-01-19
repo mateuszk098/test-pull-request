@@ -4,5 +4,4 @@ def my_counter(n):
 
 n = 5
 my_counter(n)
-my_counter(2 * n)
-print("n")
+print("New Line")
