@@ -3,6 +3,7 @@ Calculate nth-fibonacci number.
 """
 
 def nth_fibonacci(n):
+    "Return nth-fibonacci number."
     if n < 0:
         raise ValueError("The `n` attribute should be >= 0.")
     if n == 0:
