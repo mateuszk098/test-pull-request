@@ -3,7 +3,7 @@ def my_counter(n):
         print(i)
 
 
-def new_function(N):
+def new_function2(N):
     return -1
 
 
